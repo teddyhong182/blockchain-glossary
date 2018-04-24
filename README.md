@@ -4,11 +4,34 @@
 
 
 
-#### ㄱ
----
+##### ㄱ
 
 ##### ㄴ
----
+
+##### ㄷ
+
+##### ㄹ
+
+##### ㅁ
+
+##### ㅂ
+
+##### ㅅ
+
+##### ㅇ
+
+##### ㅈ
+
+##### ㅊ
+
+##### ㅋ
+
+##### ㅌ
+
+##### ㅍ
+
+##### ㅎ
+
 
 ***암호화폐 (Cryptocurrency)***
 
@@ -68,5 +91,5 @@ Blockgeeks https://blockgeeks.com/guides/blockchain-glossary-from-a-z/ <br/>
 Blockchainhub -  https://blockchainhub.net/blockchain-glossary/ <br/>
 
 
-[ㄱ]: 
-[ㄴ]: 
+[ㄱ]: ㄱ
+[ㄴ]: #ㄴ
