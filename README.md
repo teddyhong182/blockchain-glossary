@@ -271,3 +271,5 @@ Blockchainhub -  https://blockchainhub.net/blockchain-glossary/ <br/>
 앞으로 가능한 지속적으로 업데이트 할 예정입니다. <br/>
 혹시 추가 및 수정해야 할 정보가 있다면 issue로 남겨 주시면 반영하도록 하겠습니다. <br/>
 감사합니다. 
+
+혹시 문제가 된다면 말씀해 주세요.
