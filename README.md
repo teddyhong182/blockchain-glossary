@@ -1,13 +1,13 @@
-블록체인을 공부하고 이해 하는데 도움이 되고자 시작하였습니다. <br/>
-앞으로 가능한 지속적으로 업데이트 할 예정입니다. <br/>
-혹시 추가 및 수정해야 할 정보가 있다면 [ISSUE](https://github.com/TeddyH/blockchain-glossary/issues) 로 남겨 주시면 반영하도록 하겠습니다. <br/>
-감사합니다. 
+# 블록체인 용어 사전 ver 0.2
+
+블록체인을 공부하고 이해 하는데 도움이 되고자 시작하였습니다.
+앞으로 가능한 지속적으로 업데이트 할 예정입니다.
+혹시 추가 및 수정해야 할 정보가 있다면 [ISSUE](https://github.com/TeddyH/blockchain-glossary/issues) 로 남겨 주시면 반영하도록 하겠습니다.
+감사합니다.
 
 혹시 문제가 된다면 말씀해 주세요.
 
 -----
-
-# 블록체인 용어 사전 ver 0.2
 
 ##### ***암호화폐 (Cryptocurrency)***
 
@@ -289,9 +289,9 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 
 > 비트코인의 창시자의 이름에서 따왔으며, 비트코인의 소숫점 이하 8자리로 비트코인의 가장 작은 부분을 사토시라고 한다.
 
------------
+-----
 
-## 참고 자료 ##
+## 참고 자료
 
 WIKIPEDIA - https://en.wikipedia.org <br/>
 위키피디아 - https://ko.wikipedia.org <br/>
