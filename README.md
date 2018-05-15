@@ -111,7 +111,7 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 
 > [이더리움]이나 퀀텀, 아이콘 등의 플랫폼 위에서 작동하는 탈중앙화된 어플리케이션 (Decentralized Application)을 말한다.
 
-##### ***스캡코인***
+##### ***스캠코인***
 
 > 투자자들의 돈을 갈취할 악의적 목적으로 만들어진 코인.
 
