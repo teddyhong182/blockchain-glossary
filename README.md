@@ -525,6 +525,18 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 
 > 코인을 구매할 때, 일종의 신원확인 절차를 의미하며, 자금세탁 등의 불법적인 자금이 아니라는 것을 증명하는 절차인데, KYC(Know Your Customer) / AML(Anti-Money Laundering)은 해당 국가에 따라서 일부 절차 방식은 달라질 수 있다.
 
+### ***RLP encoding***
+
+> RLP(Recursive Length Prefix)는 임의의 깊이와 개수로 중첩된 배열을 binary data로 표현하는 인코딩 방식이다. 인코딩할 데이터 앞에 binary data의 길이를 추가하는 방식으로 동작하기 때문에 Length Prefix라는 이름이 붙었다. 현재 RLP는 이더리움이 patricia tree를 만드는 데만 이용되고 있지만, 스펙 자체는 일반적으로 사용할 수 있도록 정의돼 있다. RLP의 input은 binary data이다. 그 값의 이름이 무엇이고, 어떤 타입이고, 어떤 representation을 가지는지는 RLP에서 정의하지 않는다. 이는 별도의 규약을 정하여 RLP 인코딩을 하기 전에 binary data로 변경해야 한다. RLP가 인코딩하는 방법은 인코딩할 입력이 무엇인지에 따라 달라진다.
+
+### ***ASCII***
+
+> 우선 입력이 한 바이트의 일반 ASCII 캐릭터. 즉, 0x00에서 0x7F에 해당하는 값이라면 별도의 length prefix 없이 바로 사용한다.
+
+### ***wei***
+
+> 1원이 원화의 가장 작은 단위인 것처럼 이더의 가장 작은 단위가 wei이다. wei가 1이더가 되기 위해선 엄청나게 많은 wei가 필요하다. 정확하게는 10^18 wei가 필요하다. 10^9 wei는 Gwei이다. Gwei는 [가스] (네트워크 거래 수수료)에 대해 말할 때 가장 일반적으로 사용된다.
+
 -----
 
 ## 참고 자료
