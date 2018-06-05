@@ -537,6 +537,10 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 
 > 1원이 원화의 가장 작은 단위인 것처럼 이더의 가장 작은 단위가 wei이다. wei가 1이더가 되기 위해선 엄청나게 많은 wei가 필요하다. 정확하게는 10^18 wei가 필요하다. 10^9 wei는 Gwei이다. Gwei는 [가스] (네트워크 거래 수수료)에 대해 말할 때 가장 일반적으로 사용된다.
 
+### ***Decimal***
+
+> [스마트 컨트랙트] 작성시 생성하는 [토큰]의 세부 단위를 정의할때 사용 한다. 소숫점 몇자리까지를 최소 단위로 정의 할 것 인지를 선언하는데 사용된다. 비트코인의 경우 [사토시] = 8, 이더리움의 경우 [wei] = 18 를 사용한다.
+
 -----
 
 ## 참고 자료
@@ -582,12 +586,14 @@ Blockchainhub -  https://blockchainhub.net/blockchain-glossary/ <br/>
 [블록]: #블록-block
 [비탈릭 부테린]: #비탈릭-부테린
 [사토시 나카모토]: #사토시-나카모토-satoshi-nakamoto
+[사토시]: #사토시
 [스마트 컨트랙트]: #스마트-컨트랙트-smart-contract
 [소프트캡]: #소프트캡
 [재정거래]: #재정거래
 [채굴]: #채굴-mining
 [콜드월렛]: #콜드월렛-coldwallet
 [테스트넷]: #테스트넷-test-net
+[토큰]: #토큰
 [합의 알고리즘]: #합의-알고리즘-consensus-algorithm
 [하드포크]: #하드포크
 [하드캡]: #하드캡
@@ -596,3 +602,4 @@ Blockchainhub -  https://blockchainhub.net/blockchain-glossary/ <br/>
 [DAPP]: #dapp
 [P2P]: #p2p
 [ERC-20]: #erc-20
+[wei]: #wei
