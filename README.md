@@ -497,6 +497,10 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 
 > Non-fungible Token Standard(NFT). 토큰 자제의 가치를 지님. 속도의 문제를 지님.
 
+### ***ABI***
+
+> Application Binary Interface (응용 프로그램 바이너리 인터페이스)의 약자이다. 기본적으로 JSON 형식의 계약 메서드를 표현한 것으로 Web3.js가 계약 내용을 이해하는 방식으로 함수 호출을 형식화하는 방법을 알려준다.
+
 ### ***QRC***
 
 > 퀀텀 토큰들의 호환성을 위한 표준이다.
